@@ -1,0 +1,11 @@
+"Attribute_Level","Average_Utility"
+"(Intercept)",2.37
+"Price",0
+"BrandSaturn",1.604
+"BrandToyota",1.438
+"BrandVolkswagen",1.141
+"Horsepower250",1.279
+"Horsepower280",-1.683
+"ColorGreen",-0.074
+"ColorRed",-0.756
+"SunroofYes",-3.091
